@@ -1,6 +1,6 @@
 # API REST - Módulo de Gestión de Productos
 
-Backend desarrollado con **Django 4** y **Django REST Framework (DRF)** para la administración de productos, integrado con **PostgreSQL** mediante Docker.
+Backend desarrollado con **Django** y **Django REST Framework (DRF)** para la administración de productos, integrado con **PostgreSQL** mediante Docker.
 
 ---
 
@@ -19,7 +19,7 @@ En esta fase del proyecto se añadió e integró el módulo completo de `gestion
 ## Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3
-* **Framework:** Django 4.x / Django REST Framework
+* **Framework:** Django / Django REST Framework
 * **Base de Datos:** PostgreSQL (en contenedor Docker)
 * **Documentación:** Swagger / OpenAPI (`drf-yasg`)
 * **Herramientas:** Docker Compose, VS Code, Git
